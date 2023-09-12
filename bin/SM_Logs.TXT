@@ -1,2 +1,0 @@
-Combination: 3 8 4 8 
-Combination: 4 4 6 7 
